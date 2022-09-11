@@ -8,3 +8,21 @@
 4-- sudo apt install nodejs
 
 5-- apt install unzip
+
+6-- mkdir bot
+
+7-- cd bot
+
+8-- wget https://github.com/Danielxyzd/sky-bot
+
+9-- ls
+
+10-- unzip sky-bot
+
+11-- ls
+
+12-- cd bot-sky
+
+13-- sh start.sh
+
+By @DANIELMTX
